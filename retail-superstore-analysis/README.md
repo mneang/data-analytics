@@ -26,10 +26,10 @@ This dashboard combines **clarity over complexity** and ensures insights are jus
 
 ### **Key Visualizations**
 1. **KPIs**: A high-level snapshot of Sales, Profit, Profit Margin, and Return Rates.
-2. **Geographic Insights**: Map and bar chart to explore state and regional performance.
-3. **Trends Over Time**: A line chart to uncover seasonal patterns and temporal changes.
-4. **Product Performance**: A heatmap showcasing category and sub-category performance.
-5. **Operational Efficiency**: A bar chart highlighting return rates by category with drill-down capabilities.
+2. **Geographic Insights (Nationwide + Regional)**: Map and bar chart to explore state and regional performance.
+3. **Performance Over Time**: A line chart to uncover seasonal patterns and temporal changes.
+4. **Performance by Category**: A heatmap showcasing category and sub-category performance.
+5. **Return Rate by Category**: A bar chart highlighting return rates by category with drill-down capabilities.
 
 ### **Dashboard in Action**
 Explore the interactive dashboard on Tableau Public:  
