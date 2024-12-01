@@ -35,7 +35,7 @@ This dashboard combines **clarity over complexity** and ensures insights are jus
 Explore the interactive dashboard on Tableau Public:  
 [👉 **Retail Performance Dashboard**](https://public.tableau.com/app/profile/mikey.neang/viz/retail-superstore-analysis/Dashboard)
 
-
+![retail-superstore-analysis (1)](https://github.com/user-attachments/assets/8a734b30-6271-4d74-88b1-28d80623b56d)
 
 ---
 
